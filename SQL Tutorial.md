@@ -111,5 +111,17 @@ and (column_3 = 4 or column_4 = 2)
     - What is present in second dataset, but not in first?
 
 
+### WITH key word
+
+-
+-
+
+### Analytic functions
+
+-
+-
+
+
+
 
 
