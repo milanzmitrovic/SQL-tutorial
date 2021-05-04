@@ -116,10 +116,16 @@ and (column_3 = 4 or column_4 = 2)
 -
 -
 
+
 ### Analytic functions
 
--
--
+##### 3 types of analytic functions:
+- Analytic aggregate functions
+    - min, max, avg, sum, count
+- Analytic navigation functions
+     - first value, last value, lead, lag
+- Analytic numbering functions
+     - row number, rank
 
 
 
