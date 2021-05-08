@@ -116,6 +116,11 @@ and (column_3 = 4 or column_4 = 2)
 -
 -
 
+### CTE - Common Table Expression
+
+-
+-
+
 
 ### Analytic functions
 
